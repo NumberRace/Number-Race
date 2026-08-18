@@ -55,3 +55,19 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
   - Creator of **Termux Android**
 - [**Guido van Rossum**](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDAwTTZg9BJIL81MyVcoS8xTKMovLi7NBQB7bQlB&q=guido+van+rossum&oq=guido+wan+&gs_lcrp=EgZjaHJvbWUqCQgBEC4YDRiABDIGCAAQRRg5MgkIARAuGA0YgAQyCQgCEAAYDRiABDIJCAMQLhgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEC4YDRiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgATSAQkxMTg5OWoxajSoAg6wAgHxBVgtti4YYrVx&client=ms-android-transsion&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8) 
   - Creator of `Python` **Language Programming**
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a herf="https://github.com/Crex56">
+        <img width="128" height="128" alt="Crex56" src="https://github.com/user-attachments/assets/d77b0bf3-1557-48f5-b326-54d7eda29347"/><br />
+        <sub><b>Crex56</b></sub>
+        </a>
+        <br />
+        <a title="Test"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+ 
