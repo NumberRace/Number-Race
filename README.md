@@ -46,7 +46,6 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
 - [ ] Gamemodes in PvE Selection (3/6)
 - [ ] Economy
 - [ ] Store and Upgrades (Economy needed)
-- [ ] Nightly upcoming
 - [ ] Terminal :3
 - [ ] Multiplayer (Probably)
 <h2 align = "left">Credits</h2>
