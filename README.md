@@ -21,7 +21,7 @@ Requirements as `pillow`, `pygame` are not needed!
 <h2 align = "left">About</h2>
 
 - The game is fully made on `Python`
-- Open source code will be on *releases*! Neither I will publish later or nah.. I will think about it
+- Open source code will be on *[releases](https://NumberRace/Number-Race/releases)*! Neither I will publish later or nah.. I will think about it
 
 > [!NOTE]
 > If you want other Languages as `C#`, `Ruby`, `Node.js` and etc.. Make suggestion on it! I accept 3 languages, neither easy or hard..
@@ -44,13 +44,13 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
 
 - [x] Improve Back instead Enter
 - [ ] More options in Settings (4/5)
-- [ ] Better UI in PvE, Endless (when playing) and etc.. (1.75/3)
+- [ ] Better UI in PvE, Endless (when playing) and etc.. (3.75/6)
 - [ ] More Gamemodes in Play Selection (0/2)
 - [ ] Final Gamemode in Endless Selection (Economy needed)
 - [ ] Gamemodes in PvE Selection (3/6)
 - [ ] Economy
 - [ ] Store and Upgrades (Economy needed)
-- [ ] Terminal :3
+- [ ] Terminal
 - [ ] Multiplayer (Probably)
 <h2 align = "left">Credits</h2>
 
