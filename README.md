@@ -3,9 +3,13 @@
 <div align = "center">
   <img width="500" height="175" alt="NR_logo" src="https://github.com/user-attachments/assets/4e69d87e-250d-4c3d-b508-3df23efdd8dc" />
   <p>
-    Number Race is a Termux game that allow you to play inside Termux on Android!
+  
   </p>
 </div>
+<h2 align = "left"></h2>
+
+`Number Race` is a game project to play inside Termux kn Android! <br />
+Requirements as `pillow`, `pygame` are not needed!
 <h2 align = "left">Table of Content</h2>
 
 - [About](#about)
@@ -16,9 +20,9 @@
 
 <h2 align = "left">About</h2>
 
-- Number Race! A Termux game that made entirely on `Python`
-- If you want source code, type `nano file.py`
-   - Only when i publish decompile
+- The game is fully made on `Python`
+- Open source code will be on *releases*! Neither I will publish later or nah.. I will think about it
+
 > [!NOTE]
 > If you want other Languages as `C#`, `Ruby`, `Node.js` and etc.. Make suggestion on it! I accept 3 languages, neither easy or hard..
 
