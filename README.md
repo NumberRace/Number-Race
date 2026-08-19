@@ -35,7 +35,7 @@ Requirements as `pillow`, `pygame` are not needed!
    - If you already have it, use `pkg update && pkg upgrade -y`
 3. execute this line
 ```
-Bug fixes! a lot of stuff missing! Don't worry, it's won't take long enough..
+the game is still fixing some stuff rn.. stay turned yet!
 ```
 <h2 align = "left">Issues</h2>
 
