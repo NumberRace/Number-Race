@@ -27,7 +27,7 @@ Requirements as `pillow`, `pygame` are not needed!
 > If you want other Languages as `C#`, `Ruby`, `Node.js` and etc.. Make suggestion on it! I accept 3 languages, neither easy or hard..
 
 > [!WARNING]
-> If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress.. **BE. GONE.** Ig you can *modify* there..?
+> If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress will.. **BE. GONE.** Ig you can *modify* there?
 <h2 align = "left">Tutorial</h2>
 
 1. Download **Termux** from [Github](https://github.com/termux/termux-app/releases) or [Google Play](https://play.google.com/store/apps/details?id=com.termux)
@@ -43,9 +43,9 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
 <h2 align = "left">Status</h2>
 
 - [x] Improve Back instead Enter
-- [ ] More options in Settings (4/5)
+- [x] More options in Settings (5/5)
 - [ ] Better UI in PvE, Endless (when playing) and etc.. (3.75/6)
-- [ ] More Gamemodes in Play Selection (0/2)
+- [ ] More Gamemodes in Play Selection (0/3)
 - [ ] Final Gamemode in Endless Selection (Economy needed)
 - [ ] Gamemodes in PvE Selection (3/6)
 - [ ] Economy
