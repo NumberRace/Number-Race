@@ -8,8 +8,8 @@
 </div>
 <h2 align = "left"></h2>
 
-`Number Race` is a game project to play inside Termux kn Android! <br />
-Requirements as `pillow`, `pygame` are not needed!
+`Number Race` is a game project to play inside Termux in Android! <br />
+Requirements as `pillow`, `pygame` are not needed! (these are `pip`s)
 <h2 align = "left">Table of Content</h2>
 
 - [About](#about)
