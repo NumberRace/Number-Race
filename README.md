@@ -60,17 +60,18 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
       <td align="center" valign="top">
         <img width="128" height="128" alt="Crex56" src="https://github.com/user-attachments/assets/d77b0bf3-1557-48f5-b326-54d7eda29347"/><br />
         <sub><b><a href="https://github.com/Crex56">Crex56</a></b></sub><br />
-        <sub>$${\textsf{Developer, Artist}}$$</sub>
+        <sub>$${\textsf{Creator of this game}}$$</sub><br />
+        <sub>$${\textsf{and Artist}}$$</sub>
       </td>
       <td align="center" valign="top">
         <img width="128" height="128" alt="Fornwall" src="https://github.com/user-attachments/assets/3e1dd677-dcae-4a65-a1cd-5cbbd6efce41"/><br />
         <sub><b><a href="https://github.com/fornwall">Fredrik Fornwall</a></b></sub><br />
-        <sub>$${\textsf{Termux Developer}}$$</sub>
+        <sub>$${\textsf{Creator of Termux}}$$</sub>
       </td>
       <td align="center" valign="top">
         <img width="128" height="128" alt="Guido" src="https://github.com/user-attachments/assets/459db3eb-246e-419a-8bb5-569aea106e07"/><br />
         <sub><b><a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDAwTTZg9BJIL81MyVcoS8xTKMovLi7NBQB7bQlB&q=guido+van+rossum&oq=guido+wan+&gs_lcrp=EgZjaHJvbWUqCQgBEC4YDRiABDIGCAAQRRg5MgkIARAuGA0YgAQyCQgCEAAYDRiABDIJCAMQLhgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEC4YDRiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgATSAQkxMTg5OWoxajSoAg6wAgHxBVgtti4YYrVx&client=ms-android-transsion&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8">Guido van Rossum</a></b></sub><br />
-        <sub>$${\textsf{Python Developer}}$$</sub>
+        <sub>$${\textsf{Creator of Python}}$$</sub>
     </tr>
   </tbody>
 </table>
