@@ -2,18 +2,15 @@
 
 <div align = "center">
   <img width="500" height="175" alt="NR_logo" src="https://github.com/user-attachments/assets/4e69d87e-250d-4c3d-b508-3df23efdd8dc" />
-  <p>
-  
-  </p>
 </div>
 <h2 align = "left"></h2>
 
-`Number Race` is a game project to play inside Termux in Android! <br />
+`Number Race` is a game project to play inside Termux in Android! <br />&nbsp;&nbsp;
   Requirements as `pillow`, `pygame` are not needed! (these are `pip`s)
 <h2 align = "left">Table of Content</h2>
 
 - [About](#about)
-- [Tutorial](#tutorial)
+- [Installation](#installation)
 - [Issues](#issues) 
 - [Status](#status)
 - [Credits](#credits)
@@ -28,7 +25,7 @@
 
 > [!WARNING]
 > If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress will.. **BE. GONE.** Ig you can *modify* there?
-<h2 align = "left">Tutorial</h2>
+<h2 align = "left">Installation</h2>
 
 1. Download **Termux** from [Github](https://github.com/termux/termux-app/releases) or [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 2. Type `pkg install python`
@@ -62,15 +59,6 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
         <sub><b><a href="https://github.com/Crex56">Crex56</a></b></sub><br />
         <sub>$${\textsf{Creator and Artist}}$$</sub>
       </td>
-      <td align="center" valign="top">
-        <img width="128" height="128" alt="Fornwall" src="https://github.com/user-attachments/assets/3e1dd677-dcae-4a65-a1cd-5cbbd6efce41"/><br />
-        <sub><b><a href="https://github.com/fornwall">Fredrik Fornwall</a></b></sub><br />
-        <sub>$${\textsf{Creator of Termux}}$$</sub>
-      </td>
-      <td align="center" valign="top">
-        <img width="128" height="128" alt="Guido" src="https://github.com/user-attachments/assets/459db3eb-246e-419a-8bb5-569aea106e07"/><br />
-        <sub><b><a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDAwTTZg9BJIL81MyVcoS8xTKMovLi7NBQB7bQlB&q=guido+van+rossum&oq=guido+wan+&gs_lcrp=EgZjaHJvbWUqCQgBEC4YDRiABDIGCAAQRRg5MgkIARAuGA0YgAQyCQgCEAAYDRiABDIJCAMQLhgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEC4YDRiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgATSAQkxMTg5OWoxajSoAg6wAgHxBVgtti4YYrVx&client=ms-android-transsion&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8">Guido van Rossum</a></b></sub><br />
-        <sub>$${\textsf{Creator of Python}}$$</sub>
     </tr>
   </tbody>
 </table>
