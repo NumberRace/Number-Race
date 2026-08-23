@@ -9,7 +9,7 @@
 <h2 align = "left"></h2>
 
 `Number Race` is a game project to play inside Termux in Android! <br />
-Requirements as `pillow`, `pygame` are not needed! (these are `pip`s)
+  Requirements as `pillow`, `pygame` are not needed! (these are `pip`s)
 <h2 align = "left">Table of Content</h2>
 
 - [About](#about)
@@ -21,10 +21,10 @@ Requirements as `pillow`, `pygame` are not needed! (these are `pip`s)
 <h2 align = "left">About</h2>
 
 - The game is fully made on `Python`
-- Open source code will be on *[releases](https://NumberRace/Number-Race/releases)*! Neither I will publish later or nah.. I will think about it
+- It's open source
 
 > [!NOTE]
-> If you want other Languages as `C#`, `Ruby`, `Node.js` and etc.. Make suggestion on it! I accept 3 languages, neither easy or hard..
+> If you want other Languages as `Lua`, `Ruby` or `C#` and etc.. Make suggestion on it! I accept 3 languages, neither easy or hard..
 
 > [!WARNING]
 > If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress will.. **BE. GONE.** Ig you can *modify* there?
@@ -60,8 +60,7 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
       <td align="center" valign="top">
         <img width="128" height="128" alt="Crex56" src="https://github.com/user-attachments/assets/d77b0bf3-1557-48f5-b326-54d7eda29347"/><br />
         <sub><b><a href="https://github.com/Crex56">Crex56</a></b></sub><br />
-        <sub>$${\textsf{Creator of this game}}$$</sub><br />
-        <sub>$${\textsf{and Artist}}$$</sub>
+        <sub>$${\textsf{Creator and Artist}}$$</sub>
       </td>
       <td align="center" valign="top">
         <img width="128" height="128" alt="Fornwall" src="https://github.com/user-attachments/assets/3e1dd677-dcae-4a65-a1cd-5cbbd6efce41"/><br />
