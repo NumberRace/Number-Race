@@ -44,7 +44,7 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
 - [ ] Better UI in PvE, Endless (when playing) and etc.. (3.75/6)
 - [ ] More Gamemodes in Play Selection (0/3)
 - [ ] Final Gamemode in Endless Selection (Economy needed)
-- [ ] Gamemodes in PvE Selection (3/6)
+- [ ] Gamemodes in PvE Selection (4/7)
 - [ ] Economy
 - [ ] Store and Upgrades (Economy needed)
 - [ ] Terminal
