@@ -34,7 +34,7 @@ English
 2. Type `pkg install python`
    - If you already have it, use `pkg update && pkg upgrade -y`
 3. Type this command (or Copy)
-```
+```bash
 the game is still fixing some stuff rn.. stay turned yet!
 ```
 <h2 align = "left">Issues</h2>
