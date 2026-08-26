@@ -1,8 +1,12 @@
 <h2 align = "center">Number Race!</h2>
 
 <div align = "center">
-  <img width="500" height="175" alt="NR_logo" src="https://github.com/user-attachments/assets/4e69d87e-250d-4c3d-b508-3df23efdd8dc" />
+  <img width="500" height="175" alt="NR_logo" src="https://github.com/user-attachments/assets/4e69d87e-250d-4c3d-b508-3df23efdd8dc"/>
 </div>
+
+English
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="https://github.com/NumberRace/Number-Race/blob/main/README-ru.md">Русский</a>
 <h2 align = "left"></h2>
 
 `Number Race` is a game project to play inside Termux in Android! <br />&nbsp;&nbsp;
