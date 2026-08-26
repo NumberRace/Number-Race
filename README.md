@@ -17,7 +17,6 @@ English
 - [Installation](#installation)
 - [Issues](#issues) 
 - [Status](#status)
-- [Credits](#credits)
 
 <h2 align = "left">About</h2>
 
