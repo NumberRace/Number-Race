@@ -3,6 +3,10 @@
 <div align = "center">
   <img width="500" height="175" alt="NR_logo" src="https://github.com/user-attachments/assets/4e69d87e-250d-4c3d-b508-3df23efdd8dc" />
 </div>
+
+<a href="https://github.com/NumberRace/Number-Race/blob/main/README.md">English</a>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+Русский
 <h2 align = "left"></h2>
 
 `Гонка Чисел` это игровой проект который можно играть внутри Термукс <br />&nbsp;&nbsp;
