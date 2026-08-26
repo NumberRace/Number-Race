@@ -11,8 +11,8 @@
 
 - [Об](#about)
 - [Установка](#installation)
-- [Issues](#issues) 
-- [Status](#status)
+- [Проблемы](#issues) 
+- [Статус](#status)
 
 <h2 align = "left">об</h2>
 
