@@ -17,20 +17,20 @@
 
 <h2 align = "left">About</h2>
 
-- The game is fully made on `Python`
+- The game is fully made in `Python`
 - It's open source
 
 > [!NOTE]
-> If you want other Languages as `Lua`, `Ruby` or `C#` and etc.. Make suggestion on it! I accept 3 languages, neither easy or hard..
+> If you want other Languages as `Lua`, `Ruby` or `C#` and etc.. Make suggestion on it! I accept 3 languages, if easy or hard..
 
 > [!WARNING]
-> If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress will.. **BE. GONE.** Ig you can *modify* there?
+> If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress will.. **BE. GONE.** Maybe you can *modify* there?
 <h2 align = "left">Installation</h2>
 
 1. Download **Termux** from [Github](https://github.com/termux/termux-app/releases) or [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 2. Type `pkg install python`
    - If you already have it, use `pkg update && pkg upgrade -y`
-3. execute this line
+3. Type this command (or Copy)
 ```
 the game is still fixing some stuff rn.. stay turned yet!
 ```
@@ -49,17 +49,3 @@ You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/Nu
 - [ ] Store and Upgrades (Economy needed)
 - [ ] Terminal
 - [ ] Multiplayer (Probably)
-<h2 align = "left">Credits</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="128" height="128" alt="Crex56" src="https://github.com/user-attachments/assets/d77b0bf3-1557-48f5-b326-54d7eda29347"/><br />
-        <sub><b><a href="https://github.com/Crex56">Crex56</a></b></sub><br />
-        <sub>$${\textsf{Creator and Artist}}$$</sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
- 
