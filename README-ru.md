@@ -1,7 +1,7 @@
 <h2 align = "center">Гонка Чисел!</h2>
 
 <div align = "center">
-  <img width="500" height="175" alt="NR_logo" src="https://github.com/user-attachments/assets/4e69d87e-250d-4c3d-b508-3df23efdd8dc" />
+  <img width="500" height="175" alt="Image" src="https://github.com/user-attachments/assets/22f72f3c-38bc-4753-a7c2-287d75945845" />
 </div>
 
 <a href="https://github.com/NumberRace/Number-Race/blob/main/README.md">English</a>
