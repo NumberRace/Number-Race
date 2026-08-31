@@ -27,11 +27,9 @@
 <h2 align = "left">Installation</h2>
 
 1. Download **Termux** from [Github](https://github.com/termux/termux-app/releases) or [Google Play](https://play.google.com/store/apps/details?id=com.termux)
-2. Type `pkg install python`
-   - If you already have it, use `pkg update && pkg upgrade -y`
-3. Type this command (or Copy)
+2. *Write* or *copy* this command
 ```bash
-the game is still fixing some stuff rn.. stay turned yet!
+Game is still fixing!!
 ```
 <h2 align = "left">Issues</h2>
 
