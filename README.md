@@ -17,27 +17,21 @@
 <h2 align = "left">About</h2>
 
 - The game is fully made in `Python`
-- It's open source
-
-> [!NOTE]
-> If you want other Languages as `Lua`, `Ruby` or `C#` and etc.. Make suggestion on it! I accept 3 languages, if easy or hard..
-
-> [!WARNING]
-> If you see a file called `numberrace_save.json`, these are your saves when you play inside game! Don't try delete it.. Your progress will.. **BE. GONE.** Maybe you can *modify* there?
+- It's *secretly* open source
 <h2 align = "left">Installation</h2>
 
 1. Download **Termux** from [Github](https://github.com/termux/termux-app/releases) or [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 2. *Write* or *copy* this command
 ```bash
-Game is still fixing!!
+coming soon™
 ```
-<h2 align = "left">Issues</h2>
+h2 align = "left">Issues</h2>
 
 You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/NumberRace/Number-Race/issues) 
 <h2 align = "left">Status</h2>
 
 - [x] Improve Back instead Enter
-- [x] More options in Settings (5/5)
+- [ ] More options in Settings (4/5)
 - [ ] Better UI in PvE, Endless (when playing) and etc.. (3.75/6)
 - [ ] More Gamemodes in Play Selection (0/3)
 - [ ] Final Gamemode in Endless Selection (Economy needed)
