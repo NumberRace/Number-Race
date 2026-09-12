@@ -25,7 +25,7 @@
 ```bash
 coming soon™
 ```
-h2 align = "left">Issues</h2>
+<h2 align = "left">Issues</h2>
 
 You can put *bugs*/*feedback* or *suggestions* in [Issues](https://github.com/NumberRace/Number-Race/issues) 
 <h2 align = "left">Status</h2>
